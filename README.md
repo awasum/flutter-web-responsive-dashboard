@@ -1,4 +1,4 @@
-# flutter_web_dashboard
+# flutter-web-responsive-dashboard
 
 A new Flutter project.
 
